@@ -1,0 +1,32 @@
+{
+    "Canada": {
+        "Blanc-Sablon": "DAA7B",
+        "Brampton": "5FAAD",
+        "Calgary": "979BB",
+        "Charlottetown": "54E23",
+        "Edmonton": "8C9E4",
+        "Gatineau": "8F280",
+        "Halifax": "CE929",
+        "Hamilton": "B89A9",
+        "Iqaluit": "B65ED",
+        "Laval": "EFBD1",
+        "London": "BA333",
+        "Longueuil": "6E634",
+        "Mississauga": "D4DB",
+        "Montreal": "64F6A",
+        "Ottawa": "19315",
+        "Quebec": "3062E",
+        "Regina": "3B326",
+        "Saint John": "349ED",
+        "Saskatoon": "FAB7",
+        "St.John's": "DB51E",
+        "Surrey": "E28D6",
+        "Toronto": "23CA3",
+        "Vancouver": "EF058",
+        "Victoria": "CA04",
+        "Whitehorse": "C53E6",
+        "Windsor": "7204C",
+        "Winnipeg": "EB68C",
+        "Yellowknife": "33E45"
+    }
+}
